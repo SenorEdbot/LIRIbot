@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/SenorEdbot/LIRIbot/issues"
   },
-  "homepage": "https://github.com/SenorEdbot/LIRIbot#readme"
+  "homepage": "https://github.com/SenorEdbot/LIRIbot#readme",
+  "dependencies": {
+    "dotenv": "^6.1.0",
+    "moment": "^2.22.2",
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.88.0"
+  }
 }
